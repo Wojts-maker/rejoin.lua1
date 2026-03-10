@@ -13,7 +13,7 @@ local enabled = true
 local joinTime = os.time()
 
 -- === Webhook URL ===
-local WEBHOOK_URL = "TU_WSTAW_SWÓJ_WEBHOOK" -- <-- Wstaw swój Discord webhook
+local WEBHOOK_URL = "https://discord.com/api/webhooks/1480872672970801255/_OnqO7-Z9uAThaf4MBh8pxN1LvnANeYsZlVFS7VpKIkbzMDrW2jiKEb6FAN4b0GIAq4O" -- <-- Wstaw swój Discord webhook
 
 -- anti afk
 player.Idled:Connect(function()
